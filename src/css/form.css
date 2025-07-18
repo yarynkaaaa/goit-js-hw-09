@@ -81,6 +81,9 @@ input {
   width: 360px;
   height: 40px;
 }
+input:hover, textarea:hover{
+    border: 1px solid #000;
+}
 textarea {
   width: 360px;
   height: 80px;
